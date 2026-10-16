@@ -3,9 +3,6 @@
 Sistema de monitoramento com **Python**, **OpenCV**, **MediaPipe** e **YOLOv8**.
 Além de detectar movimento e disparar um alarme, ele **reconhece rostos, mãos e objetos em tempo real**, mesmo antes de o alarme ser ativado.
 
-> Projeto de **Luiz Henrique**, inspirado no
-> [sistema_detencao_movimento](https://github.com/) de António, com novas funcionalidades e uma arquitetura reescrita.
-
 ---
 
 ## ✨ Funcionalidades
